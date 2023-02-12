@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "EasyAdsPro",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/75a64f8d7e4a46d99bb9721375bf23c4"
+		},
+		{
+			"Name": "AndroidPlayBilling",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ad0040f7dbbc45cebdcbc4b2c5982904"
+		}
+	]
+}
